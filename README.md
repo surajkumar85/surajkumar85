@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=surajkumar85&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surajkumar85&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkumar85&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -21,4 +21,3 @@
 ### 😂 Random Dev Meme
 <img src="https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be780ae86778720e367_Zoa5paPhsRtqzIki0flgfk3q7FGEh2VUa5DLxKQTC0KN4WIPvB_qPkMKAIWlsnXDU5ZVupBa4GuMskrt68jRC3aUuNECLsJFLxD_-FevEqq9yPvWpkX1wOJMSmg0J9QuMCdNgJ1L.png" width="512px"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
