@@ -19,5 +19,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoftwaremill.com%2Fprogrammers-day-programming-memes-2022%2F&psig=AOvVaw3SRtPI910lzqC_OngGtCTW&ust=1680160960712000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPjBnLvNgP4CFQAAAAAdAAAAABAr" width="512px"/>
+<img src="https://softwaremill.com/user/pages/blog/programmers-day-programming-memes-2022/debugging-programming-meme.png?g-2ce114cd" width="512px"/>
 
