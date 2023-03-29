@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Electron,Rust**
 
-- 💬 Ask me about **React, NextJs**
+- 💬 Ask me about **React, NextJs, JavaScript**
 
 - 📫 How to reach me **suraj17054209@gmail.com**
 
