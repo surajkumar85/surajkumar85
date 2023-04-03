@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Electron,Rust<br><br>💬 Ask me about React, NextJs, JavaScript<br><br>📫 How to reach me suraj17054209@gmail.com
+🌱 I’m currently learning Electron,Rust<br><br>💬 Ask me about React, NextJs, JavaScript<br><br>📫 How to reach me suraj17054209@gmail.com<br><br>⚡ Fun fact: I use tabs over spaces
 
 
 ## 🌐 Socials:
