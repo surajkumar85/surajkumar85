@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
 # 💫 About Me:
